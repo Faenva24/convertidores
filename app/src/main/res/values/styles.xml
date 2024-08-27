@@ -29,7 +29,7 @@
 
     <style name="CustomShapeAppearance" parent="">
         <item name="cornerFamily">rounded</item>
-        <item name="cornerSize">16dp</item> <!-- Ajusta este valor para redondear más o menos -->
+        <item name="cornerSize">16dp</item>
     </style>
 
 
